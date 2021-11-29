@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <app key="azureb2c" version="10000">
+ <app key="azureb2c" version="10001">
   <word key="__app_azureb2c" js="0">Azure B2C Login</word>
   <word key="login_handler_azureb2c" js="0">Azure B2C</word>
   <word key="login_handler_azureb2c_info" js="0">Azure B2C Application Settings</word>

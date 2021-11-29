@@ -13,7 +13,7 @@ abstract class azureb2c_hook_LoginHandler extends _HOOK_CLASS_
 		try
 		{
 			$return = parent::handlerClasses();
-			$return[] = 'IPS\Login\Handler\OAuth2\AzureB2C';
+			$return[] = 'IPS\azureb2c\AzureB2C';
 			return $return;
 		}
 		catch ( \Error | \RuntimeException $e )

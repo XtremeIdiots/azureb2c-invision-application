@@ -9,7 +9,6 @@
  */
 
 define('REPORT_EXCEPTIONS', TRUE);
-//require_once str_replace( 'applications/azureb2c/interface/auth.php', '', str_replace( '\\', '/', __FILE__ ) ) . 'init.php';
 
 $target = \IPS\Http\Url::internal( 'oauth/callback/', 'none' );
 
