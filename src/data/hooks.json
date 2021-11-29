@@ -1,0 +1,6 @@
+{
+    "LoginHandler": {
+        "type": "C",
+        "class": "\\IPS\\Login\\Handler"
+    }
+}

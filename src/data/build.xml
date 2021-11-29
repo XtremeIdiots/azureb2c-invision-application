@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build>
+ <setting key="azureb2c_auth_endpoint"><![CDATA[{"key":"azureb2c_auth_endpoint","default":""}]]></setting>
+ <setting key="azureb2c_token_endpoint"><![CDATA[{"key":"azureb2c_token_endpoint","default":""}]]></setting>
+ <hook key="LoginHandler"><![CDATA[{"type":"C","class":"\\IPS\\Login\\Handler"}]]></hook>
+</build>

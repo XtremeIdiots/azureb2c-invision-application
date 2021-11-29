@@ -1,0 +1,10 @@
+[
+    {
+        "key": "azureb2c_auth_endpoint",
+        "default": ""
+    },
+    {
+        "key": "azureb2c_token_endpoint",
+        "default": ""
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "normal": {
+        "added": [
+            "__app_azureb2c",
+            "login_handler_azureb2c",
+            "login_handler_azureb2c_info",
+            "login_real_name_azureb2c",
+            "azureb2c_auth_endpoint",
+            "azureb2c_token_endpoint",
+            "azureb2c_oauth_client_id",
+            "azureb2c_oauth_client_secret",
+            "azureb2c_login_acp_desc"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "js": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}

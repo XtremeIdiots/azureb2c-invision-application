@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="azureb2c" version="10000">
+  <word key="__app_azureb2c" js="0">Azure B2C Login</word>
+  <word key="login_handler_azureb2c" js="0">Azure B2C</word>
+  <word key="login_handler_azureb2c_info" js="0">Azure B2C Application Settings</word>
+  <word key="login_real_name_azureb2c" js="0">Azure B2C Display Name</word>
+  <word key="azureb2c_auth_endpoint" js="0">Auth Endpoint</word>
+  <word key="azureb2c_token_endpoint" js="0">Token Endpoint</word>
+  <word key="azureb2c_oauth_client_id" js="0">Client ID</word>
+  <word key="azureb2c_oauth_client_secret" js="0">Client Secret</word>
+  <word key="azureb2c_login_acp_desc" js="0">The user will not be prompted to re-enter their password. It is recommended you leave this disabled.</word>
+ </app>
+</language>

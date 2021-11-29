@@ -1,0 +1,8 @@
+{
+    "added": [
+        "azureb2c_auth_endpoint",
+        "azureb2c_token_endpoint"
+    ],
+    "edited": [],
+    "removed": []
+}
